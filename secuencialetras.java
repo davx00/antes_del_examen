@@ -93,31 +93,31 @@ public class secuencialetras {
 		for (char b = 'B'; b <= 'Z'; b += 2)
 		{
 			System.out.print(b);
-			if(b == 'a')
+			if(b == 'A')
 			{
 				vocales++;
 			}
 			else
 			{
-				if(b == 'e')
+				if(b == 'E')
 				{
 					vocales++;
 				}
 				else 
 				{
-					if(b == 'i')
+					if(b == 'I')
 					{
 						vocales++;
 					}
 					else
 					{
-						if(b == 'o')
+						if(b == 'O')
 						{
 							vocales++;
 						}
 						else
 						{
-							if(b == 'u')
+							if(b == 'U')
 							{
 								vocales++;
 							}
