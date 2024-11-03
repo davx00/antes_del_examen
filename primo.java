@@ -11,7 +11,7 @@ public class primo {
 		System.out.println("Introducelo!");
 		int primo = user.nextInt();
 		int cont = 0;
-		int cont1 = 0;
+		
 		
 		if (primo > 1)
 		{
